@@ -3,7 +3,8 @@
 ​True 4-Player Local Co-op for Geometry Dash Platformer Mode
 ​QuadroCoop enables local multiplayer on a single device, allowing up to 4 players to compete or collaborate in Platformer levels.
 
-​Features
+​Features 
+
 ​4-Player Engine: Adds P2, P3, and P4 with independent physics.
 ​Trigger Cloning: Automatically synchronizes movement and follow triggers to all players.
 ​Dual Portal Support: P3 and P4 can independently toggle dual-mode via standard dual portals.
